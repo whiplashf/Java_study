@@ -9,6 +9,7 @@ public class Cat {
 
     int age = 10;
     public String name = "咬人猫";
+    public String hobby = "chiyu";
 
     public Cat(){
 
@@ -19,7 +20,8 @@ public class Cat {
     }
 
     public void hi(){
-        System.out.println("hello~咬人猫~");
+
+//        System.out.println("hello~咬人猫~");
     }
 
     public void cry(){
